@@ -1,0 +1,6 @@
+p=0
+Team="GO!"
+while p<3:
+    for i in Team:
+        print i
+    p+=1
