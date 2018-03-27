@@ -1,0 +1,3 @@
+j = "This is an attempt at exchanging code with "
+UserInput = input("Input your name ")
+print j + UserInput
